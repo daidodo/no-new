@@ -1,17 +1,15 @@
 {
-  "name": "PROJECT_NAME",
-  "description": "PROJECT DESCRIPTION.",
+  "name": "@dozerg/no-new",
+  "description": "Convert ES6 class constructor to normal function.",
   "bugs": {
-    "url": "https://github.com/daidodo/PROJECT_NAME/issues"
+    "url": "https://github.com/daidodo/no-new/issues"
   },
-  "homepage": "https://github.com/daidodo/PROJECT_NAME#readme",
+  "homepage": "https://github.com/daidodo/no-new#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daidodo/PROJECT_NAME.git"
+    "url": "git+https://github.com/daidodo/no-new.git"
   },
-  "keywords": [
-    "PROJECT KEYWORD"
-  ],
+  "keywords": ["new", "class", "function", "classes"],
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

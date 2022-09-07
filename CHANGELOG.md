@@ -29,8 +29,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -->
 
-## [0.0.1] - 2022-02-25
+## [0.0.1] - 2022-09-08
 
 ### Added
 
--
+- Added `noNew`.
